@@ -2,7 +2,7 @@
 
 🎓 CS @ UW-Madison (Class of 2024)  
 ⚡ Interested in full-stack software development and high-performance computing  
-🌱 Seeking Summer 2024 SDE internship  
+🌱 Seeking Summer 2025 SDE full-time opportunities
 😎 Ex-investment banker, which happens to be of no use in software development, lol  
 
 
